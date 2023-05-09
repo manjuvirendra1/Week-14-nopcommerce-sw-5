@@ -1,0 +1,3 @@
+com\nopcommerce\demo\testbase\BaseTest.class
+com\nopcommerce\demo\testsuite\ElectronicsTest.class
+com\nopcommerce\demo\testsuite\LoginTest.class
